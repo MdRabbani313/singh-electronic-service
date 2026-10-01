@@ -1,0 +1,6 @@
+{
+  "name": "Singh Electronics, Korba - Service & Complaint Portal",
+  "description": "Comprehensive Service & Complaint Management Portal for Singh Electronics, Korba. Features ticket tracking, technician assignment, WhatsApp integration, warranty validation, payment margins, and delivery workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
